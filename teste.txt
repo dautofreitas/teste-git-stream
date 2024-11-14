@@ -1,1 +1,1 @@
-log.debug("ok")
+logger.debug("ok")
