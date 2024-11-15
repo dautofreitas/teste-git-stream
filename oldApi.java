@@ -5,4 +5,5 @@
  *             {@linkcom.test.ok.spring.newApi} instead.
  */
 public class oldApi {
+  private String name;
 }
